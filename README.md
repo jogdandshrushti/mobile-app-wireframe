@@ -9,7 +9,7 @@ Shrushti Jogdand
 19
 
 ### Occupation:
-Engineering Student From Electronics and Telecommunication 
+Engineering Student From Electronics and Telecommunication Department
 
 ### Goals:
 - Manage study time efficiently
