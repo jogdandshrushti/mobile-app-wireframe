@@ -1,15 +1,15 @@
 # mobile-app-wireframe
-Study Planner Mobile App Wireframe with basic UI/UX Research and Design process Documentation.
+Study Planner Mobile App Wireframe with basic UI Research and Design process Documentation.
 ## User Personal
 
 ### Name:
-Shrushti
+Shrushti Jogdand
 
 ### Age:
 19
 
 ### Occupation:
-Engineering Student
+Engineering Student From Electronics and Telecommunication 
 
 ### Goals:
 - Manage study time efficiently
